@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');
+
+h2{
+    margin: 0;
+    padding: 0;
+    font-family: 'Barlow', sans-serif;
+}
+@media(max-width: 480px){
+    .responsive-text{
+        font-size: 18px;
+    }
+    .nav-link{
+        font-size: 10px;
+        padding: 5px 12px;
+        color: gray;
+    }
+}
